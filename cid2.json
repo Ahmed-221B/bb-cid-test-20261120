@@ -1,0 +1,1 @@
+{"client_id": "https://cdn.jsdelivr.net/gh/Ahmed-221B/bb-cid-test-20261120@main/cid2.json", "client_name": "BB Test Client", "redirect_uris": ["https://webhook.site/dbb442aa-d140-47a3-912a-91db008c4e81"], "token_endpoint_auth_method": "none", "grant_types": ["authorization_code"], "response_types": ["code"], "scope": "openid"}
